@@ -1,4 +1,4 @@
-Here's a detailed `README.md` template for your **Frontend** project. You can add it to the root of your `frontend` folder.
+
 
 ````markdown
 # Frontend - Student Management System
