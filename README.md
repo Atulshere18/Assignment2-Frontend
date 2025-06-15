@@ -135,21 +135,6 @@ Contributions are welcome! If you'd like to improve this project, please follow 
 4. **Push to Your Branch**: `git push origin feature/your-feature-name`
 5. **Create a Pull Request**.
 
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
 
 ---
 
-Feel free to customize the sections as needed. Add any extra details, such as known issues, credits, etc., based on the project’s requirements.
-
-### Key Sections:
-
-1. **Features**: Lists the key features of the frontend.
-2. **Technologies Used**: Lists the tools and technologies used in the project.
-3. **Installation**: Provides instructions on how to set up the project locally.
-4. **Folder Structure**: Shows the folder organization of the frontend project.
-5. **API Integration**: Provides information on how the frontend communicates with the backend.
-6. **Contributing**: Gives instructions for developers who want to contribute to the project.
-
-Let me know if you need any modifications or additions!
